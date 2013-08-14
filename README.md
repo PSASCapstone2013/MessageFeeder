@@ -6,4 +6,4 @@ This program opens a binary file containing non-delimited messages, packs them i
 Run it using command:
   python feeder.py
 
-To use flag -h or --help to see more options.
+Use flag -h or --help to see more options.
